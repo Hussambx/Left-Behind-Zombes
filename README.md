@@ -1,6 +1,19 @@
-# robloxgame
-Hi, welcome to my Roblox game! Left Behind Zombies is a Four player zombie story-based game created and published on Roblox. 
-This game incorporates: path finding, lighting, story telling, dynamic environments, in-game currency and much more!
+# 🧟 Left Behind Zombies
+A **4-player zombie survival story game** published on Roblox, fully developed by me.
 
-Check it out below:
-https://www.roblox.com/games/7376575091/Left-Behind-Zombies
+## 🎮 Features
+- 🏹 **Immersive Gameplay** – Story-driven experience with dynamic environments.
+- 🧠 **AI & Pathfinding** – Implemented **advanced pathfinding algorithms** for smarter enemy behavior.
+- 💡 **Realistic Visuals** – Designed **custom lighting systems** to enhance atmosphere.
+- 💰 **In-Game Economy** – Developed a **currency system** to increase player engagement.
+- 📢 **Community-Driven Improvements** – Actively gathered and implemented player feedback.
+
+## 🚀 Play the Game  
+🔗 [**Left Behind Zombies on Roblox**](https://www.roblox.com/games/7376575091/Left-Behind-Zombies)  
+
+## 🛠️ Technologies Used
+- **Roblox Studio** (Game development)
+- **Lua** (Scripting & AI logic)
+- **Python** (Automation & tools)
+
+---
